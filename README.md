@@ -97,37 +97,6 @@ We’re excited to have you contribute to this *Ice Cream Parlour Website* proje
     ```
      
 
-8. **🔄 Create a Pull Request (PR)** 
-   - Go back to the original repository [here](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website).
-   - Click the *Compare & pull request* button.
-   - Write a short description of your changes and submit the pull request (PR).
-
-9. **🔎Review Changes
-   - The project manager will review your PR. If your changes are approved, your request would be merged.
-
----
-
-By following these steps, you can easily contribute to this project! If you have any questions, feel free to ask in the repository’s discussion or issue section.
-
-
-# Contribution Points 
-
-*🏆 Contribution Levels:*
-All the tasks will be assigned various levels based on the complexity of the task and skills required to complete it. Every level will provide you a different amount of Points that is:
-- **🥇 Level 1**: 10 Points  
-- **🥈 Level 2**: 25 Points  
-- **🥉 Level 3**: 45 Points  
-
-# GSSoC Guidelines 
-
-It is important for all to adhere to all the Guildines, if found guilty the concequesces can affect your profile. To review the guidlines refer [here](https://github.com/GSSoC24/Contributor/tree/main/gssoc-guidelines)
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors
-
-Big thanks to all the contributors! 🎉
-
-<a href="https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pulse"> <img align="center" src="https://contrib.rocks/image?max=100&repo=DharshiBalasubramaniyam/ice-cream-parlour-website" /> </a> 
-
 ---
 # 📄Ending Note
 Thank you for checking out the Ice Cream Parlour Website! We hope you find this project enjoyable and informative. Your feedback, contributions, and suggestions are always welcome!
